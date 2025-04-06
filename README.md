@@ -96,3 +96,10 @@ ProjectRoot/
 ├── Prosthetic Training Game.sln # Unity solution file for managing projects
 └── README.md                    # This file
 ```
+
+## 📚 Data and Resources
+
+The following resources were used in this project:
+- **Sound Effects and Music**: Find in report appendix
+- **Background and Icon Styles**: Find in report appendix
+- **All Icons, Buttons and Cursor Styles**: Created by me
