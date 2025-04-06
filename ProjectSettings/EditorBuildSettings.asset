@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/1. WelcomeScreen.unity
+    guid: 96fb3b106f17d294bb35ebf0175ffb80
+  - enabled: 1
+    path: Assets/Scenes/2. HomeScreen.unity
+    guid: e9a619bb1b7577544b144723d476ef9c
+  - enabled: 1
+    path: Assets/Scenes/3. ItemShopScreen.unity
+    guid: d1e9780892a81954683cb7c9a7d41b86
+  - enabled: 1
+    path: Assets/Scenes/4. SocialScreen.unity
+    guid: 5519439a0b76a87428766370540cba08
+  - enabled: 1
+    path: Assets/Scenes/5. ClassicMenu.unity
+    guid: 080dca10e2a131540aa8300abfa8970f
+  - enabled: 1
+    path: Assets/Scenes/6. LeveledMenu.unity
+    guid: bc5da24388547324ba0c14b027b22dd6
+  - enabled: 1
+    path: Assets/Scenes/7. ClassicGamePlay.unity
+    guid: b445ff8e43571714b983d1827c9395d9
+  - enabled: 1
+    path: Assets/Scenes/8.LeveledGamePlay.unity
+    guid: 1f6c80cd231059544aeae013a31fae82
+  - enabled: 1
+    path: Assets/Scenes/9. ClassicEndScreen.unity
+    guid: 77b01f44a90718943821432e2c683340
+  - enabled: 1
+    path: Assets/Scenes/10. LevelEndGood.unity
+    guid: 459b9c42b3eef1f428311070f2cffe59
+  - enabled: 1
+    path: Assets/Scenes/11. LeveledEndBad.unity
+    guid: f404f2d8bc1b51542bc9d283322af899
+  - enabled: 1
+    path: Assets/Scenes/12. TrainingMenu.unity
+    guid: 3418033b3ddf9bc42bc76cc42963b4aa
+  - enabled: 1
+    path: Assets/Scenes/13. TrainingModePlay.unity
+    guid: f18f1a45d36232f418ca3dc7df951e0f
+  - enabled: 1
+    path: Assets/Scenes/14. TrainingEndScreen.unity
+    guid: a6984692310312349a68d71e3159e8b1
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 3590b91b4603b465dbb4216d601bff33, type: 3}
+  m_UseUCBPForAssetBundles: 0
